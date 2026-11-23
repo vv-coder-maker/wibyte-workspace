@@ -4,6 +4,15 @@ print()
 print()
 playername = input('What is your name?')
 print('Hello', playername, 'How are you?', sep = ' ')
-
-
-
+print ("let me show you something cool")
+print("")
+print("")
+print("")
+print("")
+print("l     oooo    oooo    kk")
+print("l   o      o o    o   k ")
+print("l     oooo    oooo    kk")
+print("")
+print("")
+print("")
+print("")
